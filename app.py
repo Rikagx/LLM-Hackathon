@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from chatlas import ChatOpenAI
 from shiny.express import ui
 
-load_dotenv()
+_ = load_dotenv()
 
 chat = ChatOpenAI(
   model="gpt-4o", 
