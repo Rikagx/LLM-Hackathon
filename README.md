@@ -2,7 +2,7 @@ A chatbot that can answer questions about the Python packages [chatlas](https://
 
 ## Live app
 
-[https://gallery.shinyapps.io/chatlas-assistant/](https://gallery.shinyapps.io/chatlas-assistant/)
+[https://gallery.shinyapps.io/chatlas-assistant/](https://testing-apps.shinyapps.io/chatlas-assistant/)
 
 ## Installation
 
